@@ -1,0 +1,1 @@
+ draw.text((left+100,top-20),label['Name'],fill="#eb3434")   
