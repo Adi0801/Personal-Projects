@@ -1,0 +1,19 @@
+/* .Product{
+    border: 1px solid rgb(27, 27, 27);
+    margin-bottom: 15px;
+    border-radius: 14px;
+    padding: 0 10px 0 10px;
+} */
+
+
+/* for cards activity */
+.Product{
+    border: 1px solid rgb(27, 27, 27);
+    margin-bottom: 15px;
+    border-radius: 14px;
+    padding: 0 10px 0 10px;
+    margin-left: 15px;
+    width:200px;
+    height:200px;
+
+}
